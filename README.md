@@ -19,6 +19,7 @@ You can interact with the model in two ways:
 
 Option 1: Hugging Face Spaces (Gradio)
 Live Demo: https://huggingface.co/spaces/Awinpang/financeQA_chatbot
+The Hugging Face Model can also be found here: https://huggingface.co/Awinpang/financeQA_chatbot
 
 No installation needed — just visit the link and start chatting.
 
