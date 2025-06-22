@@ -25,6 +25,7 @@ The Hugging Face Model can also be found here: https://huggingface.co/Awinpang/f
 No installation needed — just visit the link and start chatting.
 
 Option 2: Run Locally
+
 Clone this repo:
 ```
 git clone https://huggingface.co/spaces/Awinpang/financeQA_chatbot
