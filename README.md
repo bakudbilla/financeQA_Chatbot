@@ -3,6 +3,8 @@ This project develops a domain-specific Finance QA chatbot powered by the GPT-2 
 
 The project’s goals were to preprocess the Financial-QA-10k dataset for GPT-2 fine-tuning, train the model to generate accurate and coherent financial responses, and deploy it through an easy-to-use Streamlit interface. Model performance was evaluated quantitatively using perplexity (~2.61) to measure syntactic and semantic accuracy, alongside qualitative assessments based on sample user interactions.
 
+![Image](https://github.com/user-attachments/assets/0898b8ee-463a-406d-b036-6e60be117a98)
+
 # Dataset Structure 
 Rows: 7000
 Columns: 5
